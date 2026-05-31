@@ -42,6 +42,9 @@ SEARCH_QUERIES = [
     "TypeScript React remote",
     "Frontend React Next remote",
     "React TypeScript Next.js remote",
+    "برنامه نویس فرانت اند",
+    "ری اکت تایپ اسکریپت",
+    "برنامه نویس ری اکت"
 ]
 
 # ─── کلمات ممنوعه (Blacklist) ──────────────────────────────────────────────────
